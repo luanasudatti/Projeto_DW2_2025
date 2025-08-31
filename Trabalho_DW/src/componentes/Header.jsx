@@ -13,6 +13,7 @@ function Header() {
           <a href="#carros"><p>Carros</p></a>
           <p>Sobre Nós</p>
           <p>Contato</p>
+          <Link to="/auth"><p>Login</p></Link>
         </div>
       </nav>
     </header>
