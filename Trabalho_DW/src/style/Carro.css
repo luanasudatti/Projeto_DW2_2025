@@ -52,7 +52,7 @@
 }
 
 .seta:hover {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(214, 12, 12, 0.1);
   transform: translateY(-50%) scale(1);
 }
 
@@ -92,7 +92,7 @@
   flex-direction: column;    
   gap: 15px;
   font-size: 20px;
-  border: 1px solid black;
+  border: 1px solid rgb(180, 14, 14);
   padding: 20px;
   margin: 10px 10%;
   width: 50%;
@@ -124,7 +124,7 @@
 }
 
 .opcao.selecionada .radio-falso {
-  background: black;
+  background: rgb(229, 6, 144);
   border-color: black;
 }
 
